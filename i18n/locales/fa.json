@@ -1,5 +1,103 @@
 {
-  "home": {
-    "title": "آقای پویا علی بیگلو"
+  "personal": {
+    "full_name": "پویا علی‌بیگلو",
+    "first_name": "پویا",
+    "last_name": "علی‌بیگلو",
+    "title": "دستیار پژوهشی",
+    "affiliation": "دانشگاه دویسبورگ-اسن",
+    "department": "اجزای الکترونیک فرکانس بالا",
+    "location": "اسن، آلمان"
+  },
+  "academic_profiles": {
+    "google_scholar": "https://scholar.google.com/citations?user=rPr5EXgAAAAJ&hl=en",
+    "researchgate": "https://www.researchgate.net/profile/Pooya-Alibeigloo",
+    "academia": "https://independent.academia.edu/PooyaAliBeigloo",
+    "ad_scientific_index": "https://adscientificindex.com/scientist/pooya-alibeigloo/5434414/"
+  },
+  "metrics": {
+    "publications_count": 6,
+    "citations": 79,
+    "h_index": 4,
+    "i10_index": 2,
+    "reads": 1200
+  },
+  "research_fields": [
+    "فناوری تراهرتز",
+    "طیف‌سنجی تراهرتز",
+    "تصویربرداری تراهرتز",
+    "ادوات نیمه‌رسانا",
+    "دیودهای تونلی تشدیدی",
+    "پلاسمونیک",
+    "نانو‌دستکاری"
+  ],
+  "current_position": {
+    "role": "دستیار پژوهشی",
+    "lab": "آزمایشگاه شبیه‌سازی پیشرفته ادوات",
+    "institution": "دانشگاه دویسبورگ-اسن"
+  },
+  "top_publications": [
+    {
+      "title": "Perspectives on terahertz honey bee sensing",
+      "year": 2025,
+      "journal": "Scientific Reports",
+      "type": "مقاله"
+    },
+    {
+      "title": "Plant Water Content Monitoring Using Miniaturized THz RTD Oscillators and Detectors",
+      "year": 2025,
+      "type": "مقاله کنفرانسی"
+    },
+    {
+      "title": "Refractive Index Resolved Imaging Enabled by Terahertz Time-Domain Spectroscopy Ellipsometry",
+      "year": 2024,
+      "journal": "Journal of Infrared, Millimeter and Terahertz Waves"
+    },
+    {
+      "title": "Towards Continuous Real-Time Plant and Insect Monitoring by Miniaturized THz Systems",
+      "year": 2023,
+      "journal": "IEEE Journal of Microwaves"
+    },
+    {
+      "title": "Plasmonic tweezers: Towards nanoscale manipulation",
+      "year": 2022,
+      "journal": "Optics and Lasers in Engineering"
+    },
+    {
+      "title": "Repositioning of plasmonic hotspots along the sidewalls of conical nanoholes",
+      "year": 2020,
+      "journal": "Optics Continuum"
+    }
+  ],
+  "research_focus_summary": "تمرکز بر توسعه سیستم‌ها و ادوات تراهرتز برای کاربردهای سنجش، تصویربرداری و پایش، از جمله تحلیل وضعیت گیاهان و رفتار حشرات. همچنین فعالیت در حوزه ساختارهای نانومقیاس پلاسمونیک و دستکاری در مقیاس نانو.",
+  "collaborators_sample": [
+    "Daniel Erni",
+    "Christian Preuss",
+    "Nils Weimann",
+    "Mohammad Kazem Moravvej-Farshi",
+    "Andreas Prokscha"
+  ],
+  "applications": [
+    "پایش محیطی",
+    "تحلیل سلامت گیاهان",
+    "سنجش حشرات",
+    "مشخصه‌یابی مواد",
+    "تصویربرداری امنیتی"
+  ],
+  "website_suggestions": {
+    "sections": [
+      "درباره من",
+      "پژوهش‌ها",
+      "مقالات",
+      "پروژه‌ها",
+      "تماس",
+      "رزومه"
+    ],
+    "features": [
+      "فیلتر مقالات",
+      "نمایش شاخص‌های استنادی",
+      "معرفی پژوهش‌های برجسته",
+      "دانلود رزومه",
+      "لینک به پروفایل‌های خارجی"
+    ]
   }
 }
